@@ -14,3 +14,11 @@ Feature:
   - Make Post
   - Make Page
   - Maintance
+
+How To Install
+1. Import SQL database
+2. Dont Forget to edit username in table users
+3. you must go to func.class.php, go to inline 119 and edit method webConfig()
+
+Contact me:
+- email: kadekteguhmahesa@gmail.com
